@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.9</version>
+            <version>2.9.10.8</version>
         </dependency>
 
         <dependency>
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.apache.jena</groupId>
             <artifactId>apache-jena-libs</artifactId>
-            <version>3.9.0</version>
+            <version>3.17.0</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -79,12 +79,12 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.17</version>
+            <version>4.1.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>3.17</version>
+            <version>4.1.1</version>
         </dependency>
         <dependency>
             <groupId>net.sf.opencsv</groupId>
@@ -109,7 +109,7 @@
         <dependency>
             <groupId>com.github.spullara.mustache.java</groupId>
             <artifactId>compiler</artifactId>
-            <version>0.7.9</version>
+            <version>0.9.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
