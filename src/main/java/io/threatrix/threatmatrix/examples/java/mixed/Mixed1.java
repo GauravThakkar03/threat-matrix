@@ -1,3 +1,59 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://spring.io/projects/spring-framework
+*    Release: https://github.com/spring-projects/spring-framework/releases/tag/v5.3.9
+*    Source File: PathMatchingBenchmark.java
+*    
+*    Copyrights:
+*      copyright 2002-2020 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-framework
+*    Release: https://github.com/spring-projects/spring-framework/releases/tag/v5.2.16.RELEASE
+*    Source File: JmsInvokerClientInterceptor.java
+*    
+*    Copyrights:
+*      copyright 2002-2017 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-M2
+*    Source File: ServletContextInitializerBeans.java
+*    
+*    Copyrights:
+*      copyright 2012-2019 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Project: https://spring.io/projects/spring-hateoas
+*    Release: https://github.com/spring-projects/spring-hateoas/releases/tag/1.4.0-M2
+*    Source File: WebFluxLinkBuilder.java
+*    
+*    Copyrights:
+*      copyright 2019-2021 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 package io.threatrix.threatmatrix.utility.mixed;
 
 public class Mixed1 {
